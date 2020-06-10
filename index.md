@@ -38,10 +38,21 @@ page_sections:
   content: Manchester Riders Cycling Club is a new club in the Manchester area focussing
     on inclusivity and the joy of social riding. <br><br>The aim of the club is to
     offer regular social rides for riders of all abilities, starting with introductory
-    rides through to paced group rides. <br><br>A core aspect of MRCC is to create a safe cycling environment for riders of all abilities, gender & race; MRCC will continuously review how the we operate to ensure the club remains inclusive and safe for all. 
+    rides through to paced group rides. <br><br>A core aspect of MRCC is to create
+    a safe cycling environment for riders of all abilities, gender & race; MRCC will
+    continuously review how the we operate to ensure the club remains inclusive and
+    safe for all.
   media:
     image: "/uploads/2020/06/10/cyclist-001.jpeg"
     alt_text: Cyclist Riding
+- template: detail-content
+  block: text-1
+  headline: Club mission
+  content: <p>MRCC is was founded for some reasons and blah</p><ol><li><p>Click on
+    'Add New' in Forestry and select the Page-Builder template.</p></li><li><p>Add
+    and customize the available Blocks and preview them as you go along.</p></li><li><p>Read
+    <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
+    article</a> and create your own Blocks.</p></li></ol>
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -62,17 +73,6 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-- template: detail-content
-  block: text-1
-  headline: Steps to Build a Site!
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
