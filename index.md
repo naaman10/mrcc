@@ -40,7 +40,7 @@ page_sections:
     different sections.
   media:
     image: "/uploads/2020/06/10/cyclist-001.jpeg"
-    alt_text: uBuild Blocks Mock-Up
+    alt_text: Cyclist Riding
 - template: content-feature
   block: feature-1
   media_alignment: Right
