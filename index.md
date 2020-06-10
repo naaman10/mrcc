@@ -53,6 +53,10 @@ page_sections:
     and customize the available Blocks and preview them as you go along.</p></li><li><p>Read
     <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li></ol>
+- template: content-form
+  block: feature-form
+  headline: Join MRCC
+  content: Please complete the form to register your interest in joining Manchester Riders Cycling Club.
 - template: content-feature
   block: feature-1
   media_alignment: Right

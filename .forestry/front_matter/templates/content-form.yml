@@ -1,0 +1,23 @@
+---
+label: content-form
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: feature-form
+- type: textarea
+  name: headline
+  label: Headline
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
