@@ -34,10 +34,11 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>About MRCC</strong>"
+  content: Manchester Riders Cycling Club is a new club in the Manchester area focussing
+    on inclusivity and the joy of social riding. <br><br>The aim of the club is to
+    offer regular social rides for riders of all abilities, starting with introductory
+    rides through to paced group rides.
   media:
     image: "/uploads/2020/06/10/cyclist-001.jpeg"
     alt_text: Cyclist Riding
