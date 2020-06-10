@@ -38,7 +38,7 @@ page_sections:
   content: Manchester Riders Cycling Club is a new club in the Manchester area focussing
     on inclusivity and the joy of social riding. <br><br>The aim of the club is to
     offer regular social rides for riders of all abilities, starting with introductory
-    rides through to paced group rides.
+    rides through to paced group rides. <br><br>A core aspect of MRCC is to create a safe cycling environment for riders of all abilities, gender & race; MRCC will continuously review how the we operate to ensure the club remains inclusive and safe for all. 
   media:
     image: "/uploads/2020/06/10/cyclist-001.jpeg"
     alt_text: Cyclist Riding
