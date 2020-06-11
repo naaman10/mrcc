@@ -1,16 +1,35 @@
-<section class="block block-feature-1">
+<section class="block block-feature-form">
   <div class="container">
     <div class="columns">
       <div class="column text">
         <h2><span class="light">{{ section.headline }}</span></h2>
         <p>{{ section.content }}</p>
       </div>
-      <div class="column media">
+      <div class="column form">
         <form>
           <div class="form-group">
-            <input class="form-control" type="text" id="firstName">
-            <label for="firstName">Name</label>
+            <label>Your name</label>
+            <input class="form-control" type="text" id="name">
           </div>
+          <div class="form-group">
+            <label for="email">Your email address</label>
+            <input class="form-control" type="email" id="email">
+          </div>
+          <div class="form-group">
+            <label for="interest">What cycling are you interested in?</label>
+            <select class="form-control" id="interest">
+              <option>Introductory/beginner</option>
+              <option>14-16mph 30 miles</option>
+              <option>16-18mph 40 miles</option>
+              <option>18+mph 40+ miles</option>
+              <option>Competetive</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="extra">Anything else we need to know like health conditions etc?</label>
+            <textarea class="form-control" id="extra" rows="3"></textarea>
+          </div>
+          <button class="button">Join</button>
         </form>
       </div>
     </div>

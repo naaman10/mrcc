@@ -22,3 +22,71 @@ body {
 .button {
   font-size: 1rem;
 }
+.block-feature-form {
+  background-color: $mrcc-black;
+  color: white;
+}
+.block-feature-form .columns {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.block-feature-form .column.text {
+  margin-right: 0;
+  margin-bottom: 32px;
+  margin-bottom: 2rem;
+}
+
+.block-feature-form .column.form, .block-feature-form .column.text {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%
+}
+
+.block-feature-form .column.text h2 {
+  margin-bottom: 16px;
+  margin-bottom: 1rem;
+}
+
+.block-feature-form .column.form form {
+  max-width: 100%;
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+  input, textarea, select {
+    background-color: white;
+    padding: 15px;
+    border-radius: 6px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  }
+  label {
+  }
+}
+.button .mrcc-icon img {
+  width: 30px;
+  position: relative;
+  top: 4px;
+}
+@media screen and (min-width:700px) {
+  .block-feature-form .columns {
+    text-align: left;
+  }
+
+  .block-feature-form .column.text {
+    -ms-flex: 0 0 40%;
+    flex: 0 0 40%;
+    margin-right: 2rem;
+    margin-bottom: 0;
+  }
+
+  .block-feature-form .column.form {
+    -ms-flex: 0 0 calc(60% - 2rem);
+    flex: 0 0 calc(60% - 2rem);
+  }
+}
