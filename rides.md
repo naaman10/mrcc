@@ -32,7 +32,7 @@ page_sections:
     pace and lead the way, the other will stay at the back of the group to make sure
     that nobody gets separated or left behind.\n4. Rides will finish with a cafe stop
     for some coffee and cake where you can ask your ride leaders any question you
-    have about cycling."
+    have about cycling.\n\n### hello"
   media:
     image: "/uploads/2020/06/10/cyclist-001.jpeg"
     alt_text: Intro rides image
