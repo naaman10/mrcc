@@ -6,12 +6,12 @@
     <div class="columns">
       <div class="column text">
         <h2><span class="light">{{ section.headline }}</span></h2>
-        <p>{{ section.content }}</p>
+        <p>{{ section.content | markdownify }}</p>
       </div>
       <div class="column media">
         <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
       </div>
-    </div>      
+    </div>
   </div>
 </section>
 {% endif %}
