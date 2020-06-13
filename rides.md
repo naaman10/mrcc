@@ -7,8 +7,12 @@ page_sections:
   block: header-1
   logo: ''
   navigation:
+  - link: "/"
+    link_text: Home
   - link_text: Rides
     link: "/rides"
+  - link: "/join"
+    link_text: Join
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
