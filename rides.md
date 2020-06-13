@@ -42,5 +42,8 @@ page_sections:
   media:
     image: "/uploads/2020/06/10/cyclist-001.jpeg"
     alt_text: Intro rides image
+menu:
+  main:
+    weight: 2
 
 ---
