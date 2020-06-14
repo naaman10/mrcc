@@ -1,0 +1,17 @@
+<header class="block block-header-2">
+
+  <div class="block-header-2--logo">
+    <a href="{{ site.url | relative_url }}">
+      MANCHESTER RIDERS CYCLIG CLUB
+    </a>
+  </div>
+<nav class="block-header-2--nav">
+  <ul>
+    {% for item in site.menus.main %}
+    <li class="nav-item menu-item-{{ loop.index }}">
+      <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</nav>
+</header>

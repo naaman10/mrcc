@@ -4,3 +4,11 @@ main:
   url: "/"
   weight: 1
   title: Home
+- identifier: rides
+  url: "/rides"
+  weight: 1
+  title: Rides
+- identifier: join
+  url: "/join"
+  weight: 1
+  title: Join
