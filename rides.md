@@ -3,16 +3,6 @@ layout: blocks
 title: Rides
 date: 2020-06-10T23:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
-  logo: ''
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link_text: Rides
-    link: "/rides"
-  - link: "/join"
-    link_text: Join
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
