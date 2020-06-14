@@ -3,22 +3,6 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  title: Manchester Riders <strong>Cycling Club</strong>
-  navigation:
-  - link: "/"
-    link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
-  cta:
-    url: https://www.strava.com/clubs/mrcc
-    button_text: Join MRCC
-  logo: 'uploads/2020/06/10/mrcc-trb-hr.svg'
 - template: hero-banner-w-image
   block: hero-2
   headline: MRCC
@@ -26,7 +10,8 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: <span class="mrcc-icon"><img src="/uploads/2020/06/10/mrcc-sym-b.svg" /></span> Join MRCC
+    button_text: <span class="mrcc-icon"><img src="/uploads/2020/06/10/mrcc-sym-b.svg"
+      /></span> Join MRCC
   image:
     image: "/uploads/2020/06/10/mrcc-wt-vt.svg"
     alt_text: Product Shot
@@ -56,7 +41,9 @@ page_sections:
 - template: content-form
   block: feature-form
   headline: Join MRCC
-  content: Please complete the form to register your interest in joining Manchester Riders Cycling Club. Once you have joined you will receive an invite to join MRCC on Strava.
+  content: Please complete the form to register your interest in joining Manchester
+    Riders Cycling Club. Once you have joined you will receive an invite to join MRCC
+    on Strava.
 - template: content-feature
   block: feature-1
   media_alignment: Right
