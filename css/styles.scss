@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "bootstrap";
+
 $mrcc-black: #111111;
 $mrcc-title: 'Montserrat', sans-serif;
 $mrcc-body: 'Roboto', sans-serif;
@@ -11,13 +13,21 @@ h1,h2,h3,h4,h5 {
 body {
   font-family: $mrcc-body;
 }
-.block-header-2--logo a {
+.navbar-brand {
+  font-family: $mrcc-title;
   font-size: 1.5rem;
   color: $mrcc-black;
 }
-.block.block-hero-2 {
-  background: rgb(17,17,17)!important;
-  background: linear-gradient(45deg, rgba(17,17,17,1) 0%, rgba(17,17,17,1) 34%, rgba(80,80,80,1) 60%, rgba(111,111,111,1) 82%, rgba(137,137,137,1) 92%, rgba(172,172,172,1) 100%, rgba(255,255,255,1) 100%)!important;
+.navbar-light .navbar-toggler {
+  font-size: 1.5rem;
+  color: $mrcc-black;
+  border: none;
+}
+.block-header-2--title a {
+  color: $mrcc-black;
+  font-family: $mrcc-title;
+  text-decoration: none;
+  font-size: 2rem;
 }
 .button {
   font-size: 1rem;
