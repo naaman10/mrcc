@@ -13,8 +13,8 @@ page_sections:
     button_text: <span class="mrcc-icon"><img src="/uploads/2020/06/10/mrcc-sym-b.svg"
       /></span> Join MRCC
   image:
-    image: "/uploads/2020/06/17/riders.jpeg"
-    alt_text: Product Shot
+    image: ''
+    alt_text: ''
   background_image: "/uploads/2020/06/17/riders.jpeg"
 - template: content-feature
   block: feature-1
