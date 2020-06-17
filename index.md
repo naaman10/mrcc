@@ -15,7 +15,7 @@ page_sections:
   image:
     image: "/uploads/2020/06/17/riders.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2020/06/17/riders.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
