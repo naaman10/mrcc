@@ -13,7 +13,7 @@ page_sections:
     button_text: <span class="mrcc-icon"><img src="/uploads/2020/06/10/mrcc-sym-b.svg"
       /></span> Join MRCC
   image:
-    image: "/uploads/2020/06/10/mrcc-wt-vt.svg"
+    image: "/uploads/2020/06/10/cyclist-001.jpeg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
@@ -28,7 +28,7 @@ page_sections:
     continuously review how the we operate to ensure the club remains inclusive and
     safe for all.
   media:
-    image: "/uploads/2020/06/10/cyclist-001.jpeg"
+    image: "/uploads/2020/06/10/mrcc-bl-vt.svg"
     alt_text: Cyclist Riding
 - template: detail-content
   block: text-1
