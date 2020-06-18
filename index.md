@@ -15,7 +15,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2020/06/18/cyclist_strava.png"
+  background_image: "/uploads/2020/06/18/cyclist_strava.JPG"
 - template: content-feature
   block: feature-1
   media_alignment: Left
