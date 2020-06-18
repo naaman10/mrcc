@@ -32,5 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- _posts/club-rides/mrcc-club-ride-001.md
 - index.md
 - rides.md
