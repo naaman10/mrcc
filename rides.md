@@ -32,6 +32,17 @@ page_sections:
   media:
     image: "/uploads/2020/06/10/cyclist-001.jpeg"
     alt_text: Intro rides image
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Club Rides
+  content: Mauris tortor si felis lacus dolor blandit natoque malesuada velit. Pharetra
+    taciti vulputate felis mi mauris primis eu fusce. Congue mauris dis tincidunt
+    habitant. Dui ligula tincidunt elit lectus fames accumsan vehicula sodales. Mi
+    varius facilisis sed dictum.
+  media:
+    image: "/uploads/2020/06/18/club-ride.jpg"
+    alt_text: Club rides
 menu:
   main:
     weight: 2
