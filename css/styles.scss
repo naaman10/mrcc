@@ -4,6 +4,10 @@
 @import "bootstrap";
 
 $mrcc-black: #111111;
+$mrcc-white: #ffffff;
+$mrcc-grey: #5F7470;
+$mrcc-blue: #1F01B9;
+$mrcc-red: #F24236;
 $mrcc-title: 'Montserrat', sans-serif;
 $mrcc-body: 'Roboto', sans-serif;
 
@@ -29,6 +33,24 @@ body {
   text-decoration: none;
   font-size: 2rem;
 }
+.block-hero-2 {
+  background-position: center;
+  background-size: cover;
+}
+// .block-hero-2::after {
+//   content: ""; // ::before and ::after both require content
+//   position: absolute;
+//   top: 62px;
+//   left: 0;
+//   width: 100%;
+//   height: 100%;
+//   background-image: linear-gradient(45deg, rgba(242,66,54,0.6713060224089635) 0%, rgba(242,66,54,0.4023984593837535) 34%, rgba(31,1,185,0.520045518207283) 60%, rgba(31,1,185,0.5732668067226891) 92%, rgba(31,1,185,0.5816701680672269) 100%);
+//   opacity: .7;
+//   z-index: 1;
+// }
+// .block-hero-2 > * {
+//   z-index: 100;
+// }
 .button {
   font-size: 1rem;
 }
@@ -45,7 +67,10 @@ body {
   flex-wrap: wrap;
   text-align: center;
 }
-
+.feature-block {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 .block-feature-form .column.text {
   margin-right: 0;
   margin-bottom: 32px;

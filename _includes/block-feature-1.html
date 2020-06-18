@@ -1,15 +1,15 @@
 {% if section.media_alignment and section.media_alignment == "Left" %}
 {% include block-feature-2.html %}
 {% else %}
-<section class="block block-feature-1">
+<section class="feature-block">
   <div class="container">
-    <div class="columns">
-      <div class="column text">
+    <div class="row d-flex align-items-center">
+      <div class="col-sm-12 col-md-6">
         <h2><span class="light">{{ section.headline }}</span></h2>
         <p>{{ section.content | markdownify }}</p>
       </div>
-      <div class="column media">
-        <img src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
+      <div class="col-sm-12 col-md-6">
+        <img class="img-fluid" src="{{ section.media.image | relative_url }}" alt="{{ section.media.alt_text }}">
       </div>
     </div>
   </div>
