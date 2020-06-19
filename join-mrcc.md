@@ -7,7 +7,6 @@ date: 2020-06-18 23:00:00 +0000
 page_sections:
 - template: simple-header
   block: header-3
-  image: ''
-published: false
+  image: "/uploads/2020/06/18/cyclist_strava.JPG"
 
 ---
