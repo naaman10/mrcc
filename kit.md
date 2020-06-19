@@ -24,7 +24,7 @@ page_sections:
 
     Submit your designs to <a href="mailto:contact@manchesterriders.cc">contact@manchesterriders.cc</a>
 
-    <a href="" class="btn btn-outline download-link">Download template</a>
+    <a href="/uploads/2020/06/19/mrcc-jersey-template.pdf" target="_blank" class="btn btn-outline-dark download-link"><i class="fas fa-cloud-download-alt"></i> Download template</a>
   media:
     image: "/uploads/2020/06/19/side-left.png"
     alt_text: Club Kit - Jersey Example
