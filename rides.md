@@ -50,7 +50,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: ''
-subtitle: ''
+subtitle: Find out which MRCC rides suit your riding needs the best and when to join
+  a ride with us.
 menu:
   main:
     weight: 2
