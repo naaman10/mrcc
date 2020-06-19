@@ -13,7 +13,5 @@ page_sections:
   headline: Join MRCC
   content: Complete the form below to register your interest in joining MRCC as a
     club member.
-- template: content-form-2
-  block: feature-form
 
 ---
