@@ -14,7 +14,7 @@ page_sections:
     part of the club. '
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Help Design Our Kit
   content: "As we are still a young club, we have yet to settle on a design or supplier
     for our official club kit. This is where you come in.\n\nHave a kit design idea?
