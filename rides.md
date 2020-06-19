@@ -6,7 +6,7 @@ date: 2020-06-10T23:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
-  image: ''
+  image: "/uploads/2020/06/18/cyclist_strava.JPG"
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
