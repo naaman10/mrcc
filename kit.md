@@ -23,5 +23,8 @@ page_sections:
   media:
     image: "/uploads/2020/06/19/side-left.png"
     alt_text: Club Kit - Jersey Example
+menu:
+  main:
+    weight: 4
 
 ---
