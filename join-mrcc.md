@@ -15,5 +15,8 @@ page_sections:
     club member.
 - template: content-form-2
   block: feature-form-2
+- template: simple-footer
+  block: footer-1
+  content: ''
 
 ---
