@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Rides
-permalink: /rides
+permalink: "/rides"
 date: 2020-06-10T23:00:00.000+00:00
 page_sections:
 - template: hero-banner-w-image
@@ -44,6 +44,10 @@ page_sections:
   media:
     image: "/uploads/2020/06/18/club-ride.jpg"
     alt_text: Club rides
+- template: simple-footer
+  block: footer-1
+  content: ''
+subtitle: ''
 menu:
   main:
     weight: 2
