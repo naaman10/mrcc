@@ -30,43 +30,21 @@ page_sections:
   media:
     image: "/uploads/2020/06/10/mrcc-bl-vt.svg"
     alt_text: Cyclist Riding
-- template: detail-content
-  block: text-1
-  headline: Club mission
-  content: <p>MRCC is was founded for some reasons and blah</p><ol><li><p>Click on
-    'Add New' in Forestry and select the Page-Builder template.</p></li><li><p>Add
-    and customize the available Blocks and preview them as you go along.</p></li><li><p>Read
-    <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
+- template: 1-column-text
+  block: one-column-1
+  headline: Club Mission
+  content: Est ultrices sem habitasse ad. Phasellus sit cursus dapibus interdum. Rhoncus
+    venenatis elit dis ipsum. Pretium si platea feugiat sodales diam.
 - template: content-form
   block: feature-form
   headline: Join MRCC
   content: Please complete the form to register your interest in joining Manchester
     Riders Cycling Club. Once you have joined you will receive an invite to join MRCC
     on Strava.
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customise Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+subtitle: ''
 
 ---
 foo bar
