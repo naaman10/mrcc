@@ -1,12 +1,13 @@
 ---
 layout: blocks
 title: Kit
-permalink: /kit
-date: 2020-06-18 23:00:00 +0000
+permalink: "/kit"
+date: 2020-06-18T23:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
   logo: ''
+  image: "/uploads/2020/06/18/cyclist_strava.JPG"
 - template: 1-column-text
   block: one-column-1
   headline: Club Kit
@@ -24,6 +25,10 @@ page_sections:
   media:
     image: "/uploads/2020/06/19/side-left.png"
     alt_text: Club Kit - Jersey Example
+- template: simple-footer
+  block: footer-1
+  content: ''
+subtitle: ''
 menu:
   main:
     weight: 4
