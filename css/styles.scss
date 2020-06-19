@@ -54,7 +54,7 @@ body {
 .page-header {
   height: 40vh;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   .jumbotron {
     background-color: transparent;
@@ -63,12 +63,33 @@ body {
   }
 }
 
-.button {
-  font-size: 1rem;
+.btn {
+  font-size: 1rem !important;
+  text-transform: uppercase !important;
+  padding: .5rem !important;
+  font-family: $mrcc-title !important;
+  border-radius: 0;
+  border-color: #111111;
+  color: #111111;
+}
+.btn:hover {
+  background-color: #111111;
+  border-color: #111111;
 }
 .block-feature-form {
   background-color: $mrcc-black;
   color: white;
+}
+input,.form-control {
+  line-height: 22px;
+  font-family: $mrcc-body;
+  height: 50px;
+  border: 1px black solid !important;
+  border-radius: 0px !important;
+}
+input:focus,.form-control:focus {
+  outline: 2px $mrcc-blue solid !important;
+  box-shadow: none;
 }
 .block-feature-form .columns {
   display: -ms-flexbox;
