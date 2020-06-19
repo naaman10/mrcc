@@ -3,7 +3,7 @@ layout: blocks
 title: Join MRCC
 subtitle: Become a member of Manchester Riders Cycling Club
 permalink: "/join"
-date: 2020-06-18 23:00:00 +0000
+date: 2020-06-18T23:00:00.000+00:00
 page_sections:
 - template: simple-header
   block: header-3
@@ -15,8 +15,5 @@ page_sections:
     club member.
 - template: content-form-2
   block: feature-form
-  headline: Join MRCC
-  content: Please complete the form to register your interest in joining Manchester
-    Riders Cycling Club. Once you have joined you will receive an invite to join MRCC
-    on Strava.
+
 ---
