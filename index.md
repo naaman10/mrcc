@@ -10,8 +10,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: <span class="mrcc-icon"><img src="/uploads/2020/06/10/mrcc-sym-b.svg"
-      /></span> Join MRCC
+    button_text: Join MRCC
   image:
     image: ''
     alt_text: ''

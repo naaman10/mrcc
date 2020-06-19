@@ -62,17 +62,31 @@ body {
     color: white;
   }
 }
-
 .btn {
   font-size: 1rem !important;
   text-transform: uppercase !important;
   padding: .5rem !important;
   font-family: $mrcc-title !important;
   border-radius: 0;
+}
+.btn-primary {
+  background-color: #fff !important;
+  border-color: #fff !important;
+  color: $mrcc-black !important;
+}
+.btn-primary:hover {
+  background-color: #111111!important;
+  border-color: #111111!important;
+  color: #fff!important;
+}
+.btn-primary:hover #logo {
+  fill: #ffffff;
+}
+.btn-outline-primary{
   border-color: #111111;
   color: #111111;
 }
-.btn:hover {
+.btn-outline-primary:hover {
   background-color: #111111;
   border-color: #111111;
 }
@@ -136,11 +150,7 @@ input:focus,.form-control:focus {
   label {
   }
 }
-.button .mrcc-icon img {
-  width: 30px;
-  position: relative;
-  top: 4px;
-}
+
 @media screen and (min-width:700px) {
   .block-feature-form .columns {
     text-align: left;
