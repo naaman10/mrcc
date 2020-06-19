@@ -8,5 +8,5 @@ fields:
   name: block
   default: header-3
 - type: file
-  label: Logo
-  name: logo
+  label: Image
+  name: image

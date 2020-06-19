@@ -1,6 +1,7 @@
 ---
 layout: blocks
 title: Kit
+permalink: /kit
 date: 2020-06-18 23:00:00 +0000
 page_sections:
 - template: simple-header

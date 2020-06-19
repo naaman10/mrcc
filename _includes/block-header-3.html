@@ -1,9 +1,10 @@
-<header class="block block-header-3">
-
-  <div class="block-header-3--logo">
-    <a href="{{ site.url | relative_url }}">
-      <img src="{{ section.logo | relative_url }}" alt="{{ site.title }}">
-    </a>
+<section class="page-header" style="background-image: {{ site.github.url }}{{ section.image}}">
+  <div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h1 class="display-4">{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="lead">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
   </div>
-
-</header>
+</section>

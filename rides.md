@@ -1,6 +1,7 @@
 ---
 layout: blocks
 title: Rides
+permalink: /rides
 date: 2020-06-10T23:00:00.000+00:00
 page_sections:
 - template: hero-banner-w-image

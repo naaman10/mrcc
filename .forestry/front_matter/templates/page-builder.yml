@@ -6,6 +6,12 @@ fields:
   label: Title
   name: title
 - type: text
+  label: Sub-Title
+  name: subtitle
+- type: text
+  label: Permalink
+  name: permalink
+- type: text
   name: layout
   label: Layout
   hidden: true
