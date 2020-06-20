@@ -12,5 +12,9 @@ page_sections:
   block: cta-bar
   email_recipient: naamanh10@gmail.com
   content: fghjkl
+menu:
+  main:
+    weight: 2
+    title: About
 
 ---

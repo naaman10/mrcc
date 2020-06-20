@@ -2,7 +2,7 @@
 main:
 - identifier: join
   url: "/join"
-  weight: 3
+  weight: 4
   title: Join
 - identifier: home
   url: "/"
