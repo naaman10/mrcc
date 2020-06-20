@@ -31,6 +31,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: ''
+- template: full-width-media-element
+  block: media-1
+  caption: Mockup of club members in kit
+  image: "/uploads/2020/06/20/mrcc.png"
 subtitle: ''
 menu:
   main:
