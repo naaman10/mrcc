@@ -39,7 +39,7 @@ page_sections:
     2. **Open to all!** MRCC is open to all people, no matter your race, gender, religion, sexuality, you are welcome.
     3. **Simple Cycling** Create a club which focuses on a simpler approach to a cycling club. Just riding.
 
-    Find out more
+    [Find out more](/about "link to about")
 - template: content-form
   block: feature-form
   headline: Join MRCC
