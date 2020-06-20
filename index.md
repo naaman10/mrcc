@@ -32,14 +32,11 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Club Mission
-  content: MRCC is club founded on the idea of 'the simpler the cycling, the more    accessible
-    and enjoyable cycling can be'.  <br>&lt;ol&gt;<br>&lt;li&gt;&lt;strong&gt;Safe
-    Space&lt;/strong&gt; Promote a safe environment to introduce people to cycling
-    and its health benefits.&lt;/li&gt;<br>&lt;li&gt;&lt;strong&gt;Open to all!&lt;/strong&gt;
-    MRCC is open to all people, no matter your race, gender, religion, sexuality,    you
-    are welcome.&lt;/li&gt;<br>&lt;li&gt;&lt;strong&gt;Simple Cycling&lt;/strong&gt;
-    Create a club which focuses on a simpler approach to a cycling club. Just riding.&lt;/li&gt;<br>&lt;/ol&gt;<br>Find
-    out more
+  content: "MRCC is club founded on the idea of 'the simpler the cycling, the more
+    accessible and enjoyable cycling can be'.
+    1. **Safe Space** Promote a safe environment to introduce people to cycling and its health benefits.\n\n2. **Open to all!** MRCC is open to all people, no matter your race, gender, religion, sexuality,
+    you are welcome.\n\n3. **Simple Cycling** Create a club which focuses on a simpler approach to a cycling club. Just riding.\n\n
+    Find out more"
 - template: content-form
   block: feature-form
   headline: Join MRCC
