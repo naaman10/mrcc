@@ -32,8 +32,12 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Club Mission
-  content: Est ultrices sem habitasse ad. Phasellus sit cursus dapibus interdum. Rhoncus
-    venenatis elit dis ipsum. Pretium si platea feugiat sodales diam.
+  content: "MRCC is club founded on the idea of 'the simpler the cycling, the more
+    accessible and enjoyable cycling can be'. \n\n1. **Safe Space** Promote a safe
+    environment to introduce people to cycling and its health benefits.\n2. **Open
+    to all!** MRCC is open to all people, no matter your race, gender, religion, sexuality,
+    you are welcome.\n3. **Simple Cycling** Create a club which focuses on a simpler
+    approach to a cycling club. Just riding.\n\n   Find out more  "
 - template: content-form
   block: feature-form
   headline: Join MRCC
