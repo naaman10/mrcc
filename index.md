@@ -29,6 +29,17 @@ page_sections:
   media:
     image: "/uploads/2020/06/10/mrcc-bl-vt.svg"
     alt_text: Cyclist Riding
+- template: 1-column-text
+  block: one-column-1
+  headline: Club Mission
+  content: MRCC is club founded on the idea of 'the simpler the cycling, the more    accessible
+    and enjoyable cycling can be'.  <br>&lt;ol&gt;<br>&lt;li&gt;&lt;strong&gt;Safe
+    Space&lt;/strong&gt; Promote a safe environment to introduce people to cycling
+    and its health benefits.&lt;/li&gt;<br>&lt;li&gt;&lt;strong&gt;Open to all!&lt;/strong&gt;
+    MRCC is open to all people, no matter your race, gender, religion, sexuality,    you
+    are welcome.&lt;/li&gt;<br>&lt;li&gt;&lt;strong&gt;Simple Cycling&lt;/strong&gt;
+    Create a club which focuses on a simpler approach to a cycling club. Just riding.&lt;/li&gt;<br>&lt;/ol&gt;<br>Find
+    out more
 - template: content-form
   block: feature-form
   headline: Join MRCC
